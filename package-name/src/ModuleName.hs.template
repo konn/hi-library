@@ -1,0 +1,2 @@
+module $moduleName where
+-- import $moduleName.Internal
